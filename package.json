@@ -1,0 +1,21 @@
+{
+  "name": "lunar-dark-theme",
+  "displayName": "Lunar Dark Theme",
+  "description": "A beautiful and comfortable theme to enhance your programming experience",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunar Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lunar Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
