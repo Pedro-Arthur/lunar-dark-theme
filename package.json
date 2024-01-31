@@ -9,6 +9,19 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "dark-theme",
+    "lunar",
+    "lunar-dark",
+    "lunar-dark-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pedro-Arthur/lunar-dark-theme/"
+  },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
