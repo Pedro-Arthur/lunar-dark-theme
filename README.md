@@ -1,16 +1,44 @@
-# lunar-dark-theme README
+# VSCode Theme Extension - Lunar Dark Theme
 
-## Working with Markdown
+![Lunar Dark Theme](icon.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+A beautiful and comfortable theme to enhance your programming experience
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Eye-Friendly Colors**: Thoughtfully chosen color schemes to ensure a comfortable and productive coding experience.
 
-**Enjoy!**
+- **Versatility**: Suitable for a wide range of programming languages and file types.
+
+## Installation
+
+1. Launch Visual Studio Code.
+2. Go to Extensions (Ctrl+Shift+X).
+3. Search for "Lunar Dark Theme".
+4. Click Install to apply the theme.
+5. Choose the Lunar Dark Theme in the Color Theme picker.
+
+## Screenshots
+
+![Screenshot 1](background.png)
+*Caption: Code editor with Lunar Dark Theme.*
+
+## How to Customize
+
+1. Open VS Code settings (File > Preferences > Settings or Ctrl + ,).
+2. Click on "Color Theme" in the sidebar.
+3. Find "Lunar Dark Theme" in the list of installed themes.
+
+## Contribution
+
+If you have suggestions, issues, or want to contribute, feel free to visit the [GitHub repository](https://github.com/Pedro-Arthur/lunar-dark-theme/).
+
+## License
+
+This theme is released under the [MIT License](LICENSE).
+
+---
+
+Enjoy coding with the Lunar Dark Theme! 🚀

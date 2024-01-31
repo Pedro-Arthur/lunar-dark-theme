@@ -2,7 +2,7 @@
   "name": "lunar-dark-theme",
   "displayName": "Lunar Dark Theme",
   "description": "A beautiful and comfortable theme to enhance your programming experience",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
