@@ -25,12 +25,6 @@ A beautiful and comfortable theme to enhance your programming experience
 ![Screenshot 1](background.png)
 *Caption: Code editor with Lunar Dark Theme.*
 
-## How to Customize
-
-1. Open VS Code settings (File > Preferences > Settings or Ctrl + ,).
-2. Click on "Color Theme" in the sidebar.
-3. Find "Lunar Dark Theme" in the list of installed themes.
-
 ## Contribution
 
 If you have suggestions, issues, or want to contribute, feel free to visit the [GitHub repository](https://github.com/Pedro-Arthur/lunar-dark-theme/).
